@@ -9,7 +9,7 @@ This project demonstrates web scraping and data collection techniques using Pyth
 
 # Why should we use Pandas and Beautifulsoup libraries ??
 
-1. Pandas is essential for managing and analyzing the scraped data.
+1. **Pandas is essential for managing and analyzing the scraped data.**
   - Data Organization: It allows the data to be structured in a tabular format using DataFrames, making it easy to understand and work with.
   - Data Cleaning: Provides robust tools for cleaning and transforming raw data (e.g., handling missing values, renaming columns, etc.).
   - Analysis: Enables quick analysis of the data with built-in functions like filtering, sorting, and grouping.
