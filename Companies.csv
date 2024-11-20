@@ -1,0 +1,30 @@
+Rank,Fortune 500rank,Name,Industry,Revenue(USD millions),Profits(USD millions),Employees,Headquarters
+1,11,Volkswagen,Automotive,"348,409","17,945","684,025",Wolfsburg
+2,41,BMW,Automotive,"168,103","12,205","154,950",Munich
+3,42,Mercedes-Benz Group,Automotive,"165,638","15,417","166,056",Stuttgart
+4,77,Deutsche Telekom,Telecommunications,"121,046","19,239","199,652",Bonn
+5,79,Uniper,Electric utility,"116,663","6,819","6,863",Düsseldorf
+6,82,Allianz,Insurance,"113,518","9,233","157,883",Munich
+7,101,E.ON,Electric utility,"101,280",559,"72,242",Essen
+8,105,Robert Bosch GmbH,Automotive parts,"99,021","2,271","429,416",Stuttgart
+9,103,DHL Group,Transportation,"88,386","3,975","551,233",Bonn
+10,145,Siemens,Conglomerate,"82,932","8,477","320,000",Munich / Berlin
+11,172,BASF,Chemicals,"74,487",243,"111,991",Ludwigshafen
+12,205,Deutsche Bank,Banking,"65,978","6,645","90,130",Frankfurt
+13,215,Munich Re,Insurance,"63,353","4,979","42,812",Munich
+14,227,Daimler Truck,Automotive,"60,420","4,081","102,946",Leinfelden-Echterdingen
+15,257,Edeka Zentrale,Retail,"54,455",462,"410,700",Hamburg
+16,274,Deutsche Bahn,Transportation,"53,198","−2,566","326,781",Berlin
+17,286,Bayer,Pharmaceuticals,"51,498","−3,179","99,723",Leverkusen
+18,290,Phoenix Pharmahandel,Retail,"50,935",234,"41,276",Mannheim
+19,295,ZF Friedrichshafen,Automotive parts,"50,407",−34,"165,938",Friedrichshafen
+20,312,Landesbank Baden-Württemberg,Banking,"48,567","1,080","10,434",Stuttgart
+21,316,EnBW,Electric utility,"48,032","1,662","26,943",Karlsruhe
+22,327,Talanx,Insurance,"46,156","1,709","27,863",Hanover
+23,344,Continental AG,Automotive parts,"44,778","1,250","202,763",Hanover
+24,374,Lufthansa,Airline,"40,455","1,807","79,759",Cologne
+25,377,ThyssenKrupp,Conglomerate,"40,028","−2,210","99,981",Essen
+26,404,DZ Bank,Banking,"37,221","2,303","29,901",Bad Homburg
+27,450,SAP SE,Technology,"34,542","6,637","107,602",Walldorf
+28,478,Siemens Energy,Energy technology,"33,184","−4,833","94,000",Munich
+29,494,Metro AG,Retail,"32,579",468,"81,834",Düsseldorf
